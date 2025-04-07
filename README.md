@@ -10,7 +10,9 @@ a community event management platform designed for organizing and tracking activ
 |sheet music library|have one place where all the necessary sheet music is|-|-|-|
 
 ## screenshots
-![Announcements](http://github.com/Bonathan/community-app/homescreen_announcements.png)
-![Timetable](http://github.com/Bonathan/community-app/homescreen_timetable.png)
-![Events overview](http://github.com/Bonathan/community-app/homescreen_events_overview.png)
-![Events detail](http://github.com/Bonathan/community-app/homescreen_events_detail.png)
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Bonathan/community-app/refs/heads/master/homescreen_announcements.png" width="200" />
+  <img src="https://raw.githubusercontent.com/Bonathan/community-app/refs/heads/master/homescreen_timetable.png" width="200" /> 
+  <img src="https://raw.githubusercontent.com/Bonathan/community-app/refs/heads/master/homescreen_events_overview.png" width="200" />
+  <img src="https://raw.githubusercontent.com/Bonathan/community-app/refs/heads/master/homescreen_events_detail.png" width="200" />
+</p>
