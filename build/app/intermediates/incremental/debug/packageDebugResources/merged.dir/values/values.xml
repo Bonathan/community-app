@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">810992889454</string>
+    <string name="google_api_key" translatable="false">AIzaSyAEjeG7vR3iK2m8NUHrwyA6j1jdYFG_v_g</string>
+    <string name="google_app_id" translatable="false">1:810992889454:android:58dfb34bad8ffc332bc07f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAEjeG7vR3iK2m8NUHrwyA6j1jdYFG_v_g</string>
+    <string name="google_storage_bucket" translatable="false">blue-notification-bb497.firebasestorage.app</string>
+    <string name="project_id" translatable="false">blue-notification-bb497</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
