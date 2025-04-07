@@ -1,4 +1,4 @@
-# blue_notification
+# community app
 
 A new Flutter project.
 
